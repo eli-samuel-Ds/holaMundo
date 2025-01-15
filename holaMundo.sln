@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "holaMundo", "holaMundo\holaMundo.csproj", "{41C8E52C-C7D3-4019-AD57-9B645186FE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprendizajeDePOO", "aprendizajeDePOO\aprendizajeDePOO.csproj", "{FA534A27-5238-4A5A-AC24-73D9D5B291BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{41C8E52C-C7D3-4019-AD57-9B645186FE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41C8E52C-C7D3-4019-AD57-9B645186FE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41C8E52C-C7D3-4019-AD57-9B645186FE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA534A27-5238-4A5A-AC24-73D9D5B291BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA534A27-5238-4A5A-AC24-73D9D5B291BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA534A27-5238-4A5A-AC24-73D9D5B291BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA534A27-5238-4A5A-AC24-73D9D5B291BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
